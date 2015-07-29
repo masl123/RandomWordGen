@@ -2,7 +2,7 @@
 A Random Word/Name Generator
 
 #####USAGE:
-Simply Instanciate a new RandomWordGen Object and call getNextName(int length) to get a Random Word
+Simply Instanciate a new RandomWordGen Object and call getNextName(int length) to get a Random Word.
 You Need a List with some Sample Words. Use the NAMES.dic if you don't want to create one. 
 The Length of the List can be at max around 7000 Words. If you're above, then it starts to take long time until the Sorting algorithm sorted the Strings.
 
