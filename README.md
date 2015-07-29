@@ -14,3 +14,14 @@ I'm  using Radix-Sort (because Quicksort, which was used in the original Project
 1. search the best fitting Word for a Suffix of the Word which has been generated until now. The Suffix has a Random length.
 2. Concatenate the found Word and the Generated one. (but leave away the first few letters, as they might be the same as the suffix)
 3. continue with 1 and 2 until a Word with the minimum length has been generated.
+
+#####Samples:
+```
+Eorisr Adadstie Eorisri Noshsa Wernri Uwatwerni Oiuhuna Oishri Cuwtwern Adeori Eoriona Lruise Adelaid Iuiana Mynnoni Eowooim 
+Adelai Fvelristy Uwadela Oishade Ihhhui Uwanaal Vwrnver Bshlrhay Hriuian Ihhhaise Oisihu Uwarnit Werniui Uwanaalo 
+Uwanash Ihhride Eoishsa Adeoris Iuhuha Adelaide Grederi Eowood Adelaide Adeladel Oishris Oisihrise Ihriona Uwanamo Adelai 
+Eorelr UwadelZuwarn Lruish Oishasa Eorisut Bshled Adeori Eowoisha Uwanois Tumtwisha Uwtwnosh Iuwanoshe Werniky Kuiuihu Uwanal 
+Eoishn Rhilom Vwaver Fveoris Adelaisty Qhilom Oishri Iuihhu Iuitwtr Eorisri Iuihuwa Oishnl Iuihri Eorimy Ihihdhu Fvelyn 
+Eowwaldo Rhilom ZuwanaOishrisel Eoishri Xernri Adelris Wernos Oishai Eorirh Hrydni Uwtwer Ihrisky Ihhhris Eoriui Oinihh 
+Jujadel Oishato Uwanadela Oihhrisel Eowoois Oiuihu
+```
