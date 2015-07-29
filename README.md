@@ -13,4 +13,4 @@ I'm  using Radix-Sort (because Quicksort, which was used in the original Project
 0. The Algorithm for Generating Names starts, by simply choosing a random Letter.
 1. search the best fitting Word for a Suffix of the Word which has been generated until now. The Suffix has a Random length.
 2. Concatenate the found Word and the Generated one. (but leave away the first few letters, as they might be the same as the suffix)
-3. continue with 1 and 2 until the minimum length has been found.
+3. continue with 1 and 2 until a Word with the minimum length has been generated.
